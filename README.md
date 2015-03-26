@@ -3,16 +3,16 @@
 :boom::boom::boom::collision::collision::collision:
 
 
-:boom::boom::collision::collision::collision:
+    :boom::boom::collision::collision::collision:
 
 
-:boom::boom::collision::collision:
+      :boom::boom::collision::collision:
 
 
-:boom::collision:
+        :boom::collision:
 
 
-:collision:
+          :collision:
 
 
 [:globe_with_meridians:](http://heliqin.github.com)
